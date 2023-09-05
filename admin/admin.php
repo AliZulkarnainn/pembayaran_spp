@@ -19,7 +19,7 @@ if ($_SESSION['level'] != 'admin') {
 
 <body>
     <div class="container mt-5">
-        <h3>Aplikasi Pembayaran SPP.</h3>
+        <h3>Aplikasi Bayar SPP.</h3>
         <div class="alert alert-info">
             Anda Login Sebagai <b>Administrator</b> Aplikasi Pembayaran SPP.
 
